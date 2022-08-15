@@ -196,7 +196,7 @@ h1::after {
 
 .h1-3 {
   text-align : center ;
-  margin-top : 20px ;
+  margin-top : -20px ;
 }
 
 section {
