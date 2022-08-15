@@ -314,7 +314,7 @@ section img {
 }
 
 .card2:hover .circle:before {
-  background : #f44336 ;
+  background : #8bd3dd ;
   clip-path: circle(400px at center );
 }
 
